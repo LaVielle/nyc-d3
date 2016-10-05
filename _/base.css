@@ -28,7 +28,7 @@ body {
   font-weight: 300;
   font-size: 1.2em;
   line-height: 1.2em;
-  background: #DCD8C2;
+  background: #D1D2D5;
   color: #475B62;
 }
  
@@ -37,11 +37,14 @@ strong {
 }
  
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
-  color: #CB4B19;
+  color: #475B62;
   font-size: 1.75em;
   margin-bottom: .4em;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
  
 p {
