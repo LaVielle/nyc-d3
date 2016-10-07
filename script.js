@@ -82,6 +82,8 @@ d3.csv('nyc_water_co.csv', function(data){
 				.style('opacity', .5)
 		})
 		.on('mouseout', function(d){
+			tooltip.transition()
+				.style('opacity', 0)
 			d3.select(this)
 				.transition().delay(100).duration(500)
 				.style('opacity', 1)
