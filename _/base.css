@@ -28,8 +28,8 @@ body {
   font-weight: 300;
   font-size: 1.2em;
   line-height: 1.2em;
-  background: #D1D2D5;
-  color: #475B62;
+  background: #3f51b5;
+  color: #fff;
 }
  
 strong {
@@ -39,7 +39,7 @@ strong {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
-  color: #475B62;
+  color: #fff;
   font-size: 1.75em;
   margin-bottom: .4em;
   margin: auto;

@@ -5,3 +5,7 @@ svg {
     border-radius: 5px;
     margin: auto;
 }
+
+#tooltip {
+	color: #3f51b5;
+}
